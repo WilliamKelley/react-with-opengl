@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-with-opengl/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-with-opengl/static/js/main.0428ad44.chunk.js",
+    "main.js.map": "/react-with-opengl/static/js/main.0428ad44.chunk.js.map",
+    "runtime~main.js": "/react-with-opengl/static/js/runtime~main.52b63b11.js",
+    "runtime~main.js.map": "/react-with-opengl/static/js/runtime~main.52b63b11.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react-with-opengl/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react-with-opengl/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react-with-opengl/index.html",
+    "precache-manifest.1720e74294c14abb28d4b334233a9bf3.js": "/react-with-opengl/precache-manifest.1720e74294c14abb28d4b334233a9bf3.js",
+    "service-worker.js": "/react-with-opengl/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-with-opengl/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-with-opengl/static/media/logo.5d5d9eef.svg"
+  }
+}
